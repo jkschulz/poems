@@ -1,6 +1,7 @@
 # haiku
 
-i love to write code
+
+i like to write code so0o0o0o much but sometimes I get frustrated
 
 especially golang
 
