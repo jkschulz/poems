@@ -6,9 +6,11 @@ let poem = ["Roses Are Red", "Violets Are Blue", "I love JavaScript", "I hope yo
 
 let poemOut = () => {
   let i;
+  
   for(i=0; i <= poem.length; i++){
     console.log(poem[i])
-    }
+  }
+  
   console.log(message);
 }  
 
