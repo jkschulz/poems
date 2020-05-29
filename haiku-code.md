@@ -1,7 +1,10 @@
 # haiku
 
-i hate to write code
+i love to write code
 
 especially golang
 
 and HTML
+
+
+I love JavaScript
