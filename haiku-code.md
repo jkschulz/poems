@@ -2,6 +2,6 @@
 
 i like to write code
 
-especially javascript
+especially golang
 
 and HTML
