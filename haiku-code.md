@@ -1,6 +1,6 @@
 # haiku
 
-i like to write code
+i like to write code but sometimes I get frustrated
 
 especially javascript
 
