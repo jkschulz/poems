@@ -8,3 +8,5 @@ and HTML
 
 
 I love JavaScript
+
+I love Python as well
